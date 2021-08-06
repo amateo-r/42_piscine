@@ -1,0 +1,5 @@
+Credentials cache: API:555AAAF5-A71B-44BF-BE9E-0A8E75E0B414
+        Principal: amateo-r@42MADRID.COM
+
+  Issued                Expires               Principal
+Apr  7 08:56:56 2021  Apr  7 18:56:56 2021  krbtgt/42MADRID.COM@42MADRID.COM
